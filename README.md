@@ -89,11 +89,17 @@ on a sample of images and adjusting SegmentConfig parameters when necessary.
 *Possible improvements include:*
 
 *More robust handling of touching/fused characters
+
 *Better detection of matras and detached components
+
 *Adaptive boundary scoring
+
 *Font-specific or style-aware segmentation
+
 *Quantitative segmentation evaluation against annotated boundaries
+
 *Integration with a trained OCR/character-recognition model
+
 *Improved handling of handwritten and highly stylized Devanagari text
 
 
