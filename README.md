@@ -69,9 +69,9 @@ on a sample of images and adjusting SegmentConfig parameters when necessary.
 ### Input and Segmentation Debug
 
 <p align="center">
-  <img src="images/input.png" width="700">
+  <img src="line_0.jpg" width="700">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/segmentation_debug.png" width="700">
+  <img src="debugimage.png" width="700">
 </p>
 
 <br>
@@ -79,13 +79,11 @@ on a sample of images and adjusting SegmentConfig parameters when necessary.
 ### Segmented Characters
 
 <p align="center">
-  <img src="images/char_1.png" width="220">
+  <img src="line_20_w0_c0_मि.png" width="220">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/char_2.png" width="220">
+  <img src="line_20_w0_c1_थु.png" width="220">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/char_3.png" width="220">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/char_4.png" width="220">
+  <img src="line_20_w0_c2_नं.png" width="220">
 </p>
 # Input:-
 
