@@ -44,7 +44,8 @@ A typical input/output structure is:
 └── output/
     ├── line_0_w0_c0_<akshara>.png
     ├── line_0_segmentation_debug.png
-    └── line_0_manifest.json~~~
+    └── line_0_manifest.json
+~~~
 
 *Each image should have a matching .txt file containing its ground-truth text.*
 
