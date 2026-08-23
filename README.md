@@ -6,7 +6,6 @@
 
 The core idea is:
 
-## Pipeline
 
 ```mermaid
 flowchart TD
@@ -85,18 +84,7 @@ on a sample of images and adjusting SegmentConfig parameters when necessary.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="line_20_w0_c2_नं.png" width="180">
 </p>
-# Input:-
 
-![input image](line_0.jpg)
-
-And the file got after going through this pipeline *Debug_file* and character segmentation i got using the pipeline
-![output_image](debugimage.png)
-
-
-& 
-
-# मि                                            # थु                                           # नं
-![segmented_मि](line_20_w0_c0_मि.png)           ![segmented_थु](line_20_w0_c1_थु.png)           ![segmented_नं](line_20_w0_c2_नं.png)
 
 
 
