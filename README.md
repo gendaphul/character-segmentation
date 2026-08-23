@@ -4,6 +4,6 @@
 
 ## Pipeline Structure :-
 
-* Binarization -> Sherorekha Removal -> Noise Removal -> Word Splitting -> Vertical ink Projection -> Ground truth Akshara extraction -> Boundary reconciliation -> Character Cropping -> Output 
+*Binarization -> Sherorekha Removal -> Noise Removal -> Word Splitting -> Vertical ink Projection -> Ground truth Akshara extraction -> Boundary reconciliation -> Character Cropping -> Output*
 
 
