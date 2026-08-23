@@ -69,8 +69,11 @@ on a sample of images and adjusting SegmentConfig parameters when necessary.
 
 ![input image](line_0.jpg)
 
-And the file got after going through this pipeline *Debug_file*
+And the file got after going through this pipeline *Debug_file* and character segmentation i got using the pipeline
 ![output_image](debugimage.png)
+![segmented_मि](line_20-w0_c0_मि.png)
+![segmented_थु](line_20-w0_c1_थु.png)
+![segmented_नं](line_20-w0_c1_नं.png)
 
 
 
