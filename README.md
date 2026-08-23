@@ -22,32 +22,6 @@ flowchart TD
     H --> K[Debug Visualization]
 ```
 
-Image + Ground Truth Text
-          │
-          ▼
-     Binarization
-          │
-          ▼
-  Shirorekha Removal
-          │
-          ▼
-    Noise Removal
-          │
-          ▼
-  Ink-Run Detection
-          │
-          ▼
-Ground Truth Akshara Count
-          │
-          ▼
- Boundary Reconciliation
-          │
-          ▼
-  Character/Akshara Crops
-          │
-          ├── PNG crops
-          ├── JSON manifest
-          └── Debug visualization
 
 
 
@@ -57,7 +31,7 @@ Ground Truth Akshara Count
 
 A typical input/output structure is:
 
-project/
+~~~project/
 │
 ├── Character Segmentation
 │
@@ -70,7 +44,7 @@ project/
 └── output/
     ├── line_0_w0_c0_<akshara>.png
     ├── line_0_segmentation_debug.png
-    └── line_0_manifest.json
+    └── line_0_manifest.json~~~
 
 *Each image should have a matching .txt file containing its ground-truth text.*
 
