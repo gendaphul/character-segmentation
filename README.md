@@ -54,7 +54,7 @@ Important Limitation
 The segmentation is ground-truth guided.
 The ground truth provides the expected akshara count and labels. Image evidence is then used to determine where the boundaries should be placed.
 Therefore, this implementation should not be interpreted as a completely text-independent character segmentation system.
-### The python documentation recommends checking the generated-
+### The python documentation recommends checking the generated <br>
 ### *_segmentation_debug.png
 
 on a sample of images and adjusting SegmentConfig parameters when necessary.
