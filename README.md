@@ -73,14 +73,10 @@ And the file got after going through this pipeline *Debug_file* and character se
 ![output_image](debugimage.png)
 
 
-
 & 
 
-![segmented_मि](line_20_w0_c0_मि.png)
-
-![segmented_थु](line_20_w0_c1_थु.png)
-
-![segmented_नं](line_20_w0_c2_नं.png)
+# मि                                            # थु                                           # नं
+![segmented_मि](line_20_w0_c0_मि.png)           ![segmented_थु](line_20_w0_c1_थु.png)           ![segmented_नं](line_20_w0_c2_नं.png)
 
 
 
