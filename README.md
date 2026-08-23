@@ -6,6 +6,22 @@
 
 The core idea is:
 
+## Pipeline
+
+```mermaid
+flowchart TD
+    A[Image + Ground Truth Text] --> B[Binarization]
+    B --> C[Shirorekha Removal]
+    C --> D[Noise Removal]
+    D --> E[Ink-Run Detection]
+    E --> F[Ground Truth Akshara Count]
+    F --> G[Boundary Reconciliation]
+    G --> H[Character / Akshara Crops]
+    H --> I[PNG Crops]
+    H --> J[JSON Manifest]
+    H --> K[Debug Visualization]
+```
+
 Image + Ground Truth Text
           │
           ▼
@@ -79,7 +95,7 @@ on a sample of images and adjusting SegmentConfig parameters when necessary.
 ![input image](line_0.jpg)
 
 And the file got after going through this pipeline *Debug_file*
-![output_image](debugimage.jpg)
+![output_image](debugimage.png)
 
 
 
