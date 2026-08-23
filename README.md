@@ -52,15 +52,10 @@ A typical input/output structure is:
 Important Limitation
 
 The segmentation is ground-truth guided.
-
 The ground truth provides the expected akshara count and labels. Image evidence is then used to determine where the boundaries should be placed.
-
 Therefore, this implementation should not be interpreted as a completely text-independent character segmentation system.
-
-The python documentation recommends checking the generated:
-
-*_segmentation_debug.png
-
+# The python documentation recommends checking the generated:
+# *_segmentation_debug.png
 on a sample of images and adjusting SegmentConfig parameters when necessary.
 
 ## Results
@@ -93,19 +88,13 @@ on a sample of images and adjusting SegmentConfig parameters when necessary.
 
 *Possible improvements include:*
 
-More robust handling of touching/fused characters
-
-Better detection of matras and detached components
-
-Adaptive boundary scoring
-
-Font-specific or style-aware segmentation
-
-Quantitative segmentation evaluation against annotated boundaries
-
-Integration with a trained OCR/character-recognition model
-
-Improved handling of handwritten and highly stylized Devanagari text
+*More robust handling of touching/fused characters
+*Better detection of matras and detached components
+*Adaptive boundary scoring
+*Font-specific or style-aware segmentation
+*Quantitative segmentation evaluation against annotated boundaries
+*Integration with a trained OCR/character-recognition model
+*Improved handling of handwritten and highly stylized Devanagari text
 
 
 
