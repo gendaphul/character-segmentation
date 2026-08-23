@@ -79,11 +79,11 @@ on a sample of images and adjusting SegmentConfig parameters when necessary.
 ### Segmented Characters
 
 <p align="center">
-  <img src="line_20_w0_c0_मि.png" width="220">
+  <img src="line_20_w0_c0_मि.png" width="180">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="line_20_w0_c1_थु.png" width="220">
+  <img src="line_20_w0_c1_थु.png" width="140">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="line_20_w0_c2_नं.png" width="220">
+  <img src="line_20_w0_c2_नं.png" width="180">
 </p>
 # Input:-
 
