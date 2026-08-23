@@ -6,7 +6,7 @@
 
 The core idea is:
 
-*Image + Ground Truth Text
+Image + Ground Truth Text
           │
           ▼
      Binarization
@@ -31,7 +31,7 @@ Ground Truth Akshara Count
           │
           ├── PNG crops
           ├── JSON manifest
-          └── Debug visualization*
+          └── Debug visualization
 
 
 
