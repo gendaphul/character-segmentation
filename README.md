@@ -1,6 +1,5 @@
-*This project is about the character recognization and segmentation using the Neural Networks* 
+# Devanagari Akshara Segmentation
 
-Using the Residual Networks **(ResNet-50)** architecture trained the model for the recognization and the classification of the of Sanskit/Devonagari Characters
-
+/ A computer-vision pipeline for segmenting Devanagari/Sanskrit word images into individual aksharas (visual character clusters) using ground-truth text as guidance./
 
 
