@@ -64,7 +64,29 @@ The python documentation recommends checking the generated:
 
 on a sample of images and adjusting SegmentConfig parameters when necessary.
 
+## Results
 
+### Input and Segmentation Debug
+
+<p align="center">
+  <img src="images/input.png" width="700">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/segmentation_debug.png" width="700">
+</p>
+
+<br>
+
+### Segmented Characters
+
+<p align="center">
+  <img src="images/char_1.png" width="220">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/char_2.png" width="220">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/char_3.png" width="220">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/char_4.png" width="220">
+</p>
 # Input:-
 
 ![input image](line_0.jpg)
